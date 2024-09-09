@@ -24,9 +24,9 @@ min-height: 100vb;
   background-color: #d7de0c50;
 }
 .container img{
+  background-color:  rgba(203, 215, 223, 0.362);
   
-  background-color: aqua;
-  border: 2px solid red;
+  border: 6px groove rgba(203, 215, 223, 0.362);
   width: 10rem;
   margin: 2rem;
 
